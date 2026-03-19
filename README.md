@@ -8,5 +8,7 @@ This project is released under Apache-Lizense 2.0.
 
 ## Overview:
 
-This Progamm convert arabic numbers in roman numbers. 
+This Progamm convert arabic numbers in roman numbers format. 
+Enter an integer in the terminal, and it will be converted into a roman number.
+
 AI was used for right python syntax.
