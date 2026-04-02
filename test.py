@@ -18,3 +18,7 @@ def test_roem(zahl):
         f"Einer: {roem(einer)}",
         f"Gesamt: {roem(zahl)}",
     )
+
+def test_assert():
+    """Test that will fail"""
+    assert roem(1) == "FALSCH"
